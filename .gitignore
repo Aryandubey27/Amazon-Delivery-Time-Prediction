@@ -68,9 +68,18 @@ uv.lock
 *.csv
 !sample_data.csv  # Keep small sample if needed
 
-# MLflow
+# MLflow (contains large model files)
 mlruns/
 mlartifacts/
+
+# Large trained models (keep only essential ones)
+rf_tuned_model.pkl
+gb_model.pkl
+lr_model.pkl
+
+# Keep only these models (comment out to track with LFS)
+# best_model.pkl
+# preprocessor.pkl
 
 # Logs
 *.log
