@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Amazon_Delivery_Time_Prediction/mlruns/140771428650302228/3ea77d2cac864970b7d06d3f0dccad8f/artifacts
+end_time: 1759564520854
+entry_point_name: ''
+experiment_id: '140771428650302228'
+lifecycle_stage: active
+run_id: 3ea77d2cac864970b7d06d3f0dccad8f
+run_name: Best_Model_20251004_132514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759564514901
+status: 3
+tags: []
+user_id: ripul

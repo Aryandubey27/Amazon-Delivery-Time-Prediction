@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Amazon_Delivery_Time_Prediction/mlruns/140771428650302228/models/m-6de02495b7b34e1b8e715251220044d7/artifacts
+creation_timestamp: 1759564518365
+experiment_id: '140771428650302228'
+last_updated_timestamp: 1759564520833
+model_id: m-6de02495b7b34e1b8e715251220044d7
+model_type: null
+name: preprocessor
+source_run_id: 3ea77d2cac864970b7d06d3f0dccad8f
+status: 2
+status_message: null

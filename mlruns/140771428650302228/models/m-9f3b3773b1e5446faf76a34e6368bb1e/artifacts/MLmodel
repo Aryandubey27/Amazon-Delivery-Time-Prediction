@@ -1,0 +1,14 @@
+artifact_path: file:///d:/Amazon_Delivery_Time_Prediction/mlruns/140771428650302228/models/m-9f3b3773b1e5446faf76a34e6368bb1e/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-9f3b3773b1e5446faf76a34e6368bb1e
+model_size_bytes: 2406
+model_uuid: m-9f3b3773b1e5446faf76a34e6368bb1e
+prompts: null
+run_id: 38aa3818e72a446fba3a750eb845bd53
+utc_time_created: '2025-10-04 07:51:24.415658'

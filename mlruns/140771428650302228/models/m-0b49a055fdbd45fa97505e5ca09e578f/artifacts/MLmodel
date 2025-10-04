@@ -1,0 +1,22 @@
+artifact_path: file:///d:/Amazon_Delivery_Time_Prediction/mlruns/140771428650302228/models/m-0b49a055fdbd45fa97505e5ca09e578f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-0b49a055fdbd45fa97505e5ca09e578f
+model_size_bytes: 71057093
+model_uuid: m-0b49a055fdbd45fa97505e5ca09e578f
+prompts: null
+run_id: 3ea77d2cac864970b7d06d3f0dccad8f
+utc_time_created: '2025-10-04 07:55:15.033729'

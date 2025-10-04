@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Amazon_Delivery_Time_Prediction/mlruns/140771428650302228/models/m-0b49a055fdbd45fa97505e5ca09e578f/artifacts
+creation_timestamp: 1759564515009
+experiment_id: '140771428650302228'
+last_updated_timestamp: 1759564518289
+model_id: m-0b49a055fdbd45fa97505e5ca09e578f
+model_type: null
+name: model
+source_run_id: 3ea77d2cac864970b7d06d3f0dccad8f
+status: 2
+status_message: null
